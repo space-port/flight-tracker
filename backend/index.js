@@ -7,6 +7,7 @@ const flights = [
     { id: 1, origin: 'Los Angeles', destination: 'New York', status: 'On Time' },
     { id: 2, origin: 'San Francisco', destination: 'Chicago', status: 'Delayed' },
     { id: 3, origin: 'Houston', destination: 'Miami', status: 'Cancelled' },
+    { id: 4, origin: 'Toronto', destination: 'Tel Aviv', status: 'Cancelled' }
 ];
 
 // Endpoint to get all flights
