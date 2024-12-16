@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: flight-tracker-backend
-  namespace: default
+  namespace: flight-tracker
   labels:
     app: flight-tracker-backend
 spec:
